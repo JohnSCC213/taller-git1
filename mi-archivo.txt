@@ -1,1 +1,1 @@
-Aprendi a crear repositorios, ramas y a hacer commits en git
+Contenido de practica
